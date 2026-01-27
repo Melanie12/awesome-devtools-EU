@@ -8,7 +8,7 @@ Based in France myself, I want to promote the awesome developer first companies 
 - [Strapi](https://strapi.io) : Leading Open-source headless CMS. #opensource #selfhosted #cloud
 - [Prismic](https://prismic.io) : Headless CMS Website Builder.
 
-  # CRM
+# CRM
 
 - [Twenty](https://https://twenty.com/): Open-Source CRM. Modern, powerful, affordable platform to manage your customer relationships
 
