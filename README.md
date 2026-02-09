@@ -26,11 +26,12 @@ Obviously I am not omnicient :-) Help me fill these repository with your favorit
 - Bulgaria
 - Croatia
 - Cyprus
+- [Czechia](czechia.md) 
 - Denmark
 - Estonia
 - Finland
 - [France](france.md)
-- Germany
+- [Germany](germany.md)
 - Greece
 - Hungaria
 - Ireland
@@ -42,7 +43,7 @@ Obviously I am not omnicient :-) Help me fill these repository with your favorit
 - Netherlands
 - Poland
 - [Portugal](portugal.md)
-- Spain
+- [Spain](spain.md)
 - Slovenia
 
 
