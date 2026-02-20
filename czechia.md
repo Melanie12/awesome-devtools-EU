@@ -1,5 +1,5 @@
-# awesome-devtools-{Country Name}
-Curated list of developer-first tools orignally made in {Country name}.
+# awesome-devtools-Czechia
+Curated list of developer-first tools orignally made in Czechia.
 
 Some tools listed here may have changed their headquarters locations.
 
