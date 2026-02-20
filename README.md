@@ -1,4 +1,4 @@
-# awesome-devtools-EU
+# Awesome DevTools Made in Europe
 A curated collection of developer‑first tools built in Europe.
 
 ## How to contribute
