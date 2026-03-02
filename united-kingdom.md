@@ -1,12 +1,11 @@
-# awesome-devtools-Germany
-Curated list of developer-first tools orignally made in Germany.
+# awesome-devtools-United Kingdom
+
+Curated list of developer-first tools orignally made in the United Kingdom.
 
 Some tools listed here may have changed their headquarters locations.
 
 # Artificial Intelligence
-- [Black Forest Labs](https://www).bfl.ai: The frontier AI research lab for visual intelligence. 
-- [DeepL](https://www.deepl.com) : Translation API.
-- [OpenWork](https://openwork.software/): Open-source desktop app delivers guided agentic workflows for knowledge-focused tasks #oss
+- [Eigent](https://www.eigent.ai/) : Open source cowork desktop application #oss
 
 # CMS
 - [Name](link to website) : Short description #oss #selfhosted #cloud 
@@ -15,9 +14,7 @@ Some tools listed here may have changed their headquarters locations.
 - [Name](link to website) : Short description #oss #selfhosted #cloud 
 
 # Deployment Hosting
-- [Codeberg](https://codeberg.org/) : A free Git source code hosting service.
-- [Forgejo](https://forgejo.org/) : Self-hosted lightweight software forge.
-- [deSEC](https://desec.io/): Privacy-friendly DNS hosting.
+- [Name](link to website) : Short description #oss #selfhosted #cloud 
 
 # Documentation
 - [Name](link to website) : Short description #oss #selfhosted #cloud 
