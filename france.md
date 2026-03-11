@@ -16,6 +16,7 @@ Some tools listed here may have changed their headquarters locations.
 - [Gladia](https://gladia.io/): Audio Intelligence API
 - [LaVague](https://github.com/lavague-ai/LaVague): Open-source Large Action Model framework to automate web interaction. #OSS
 - [PyannoteAI](https://www.pyannote.ai/): Speaker Intelligence Platform for developers
+- [Murmure](https://www.murmure.app/): AI-Powered Speech-to-Text #oss
 
 ## CMS
 
