@@ -22,6 +22,7 @@ Some tools listed here may have changed their headquarters locations.
 
 - [Strapi](https://strapi.io) : Leading Open-source headless CMS. #oss #selfhosted #cloud 
 - [Prismic](https://prismic.io) : Headless CMS Website Builder.
+- [Camox](camox.ai): CMS designed for agentic workflows and visual editing.
 
 ## CRM
 
